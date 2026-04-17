@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+python-dotenv
+beautifulsoup4
+requests 
+pypdf
+langchain-core
+langchain-huggingface

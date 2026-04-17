@@ -1,0 +1,4 @@
+https://python.langchain.com/docs/get_started/introduction
+https://fastapi.tiangolo.com/
+https://docs.pinecone.io/docs/overview
+https://platform.openai.com/docs/introduction
